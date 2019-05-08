@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\..\Bit Operations\Bit operations.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\LED bit operations.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\LED Blink using funct and prep\LED Blink advanced.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>
